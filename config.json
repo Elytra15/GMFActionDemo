@@ -1,5 +1,5 @@
 {
     "FakeRelayUrl": "https://fakerelay.gervas.io",
-    "Tags": [ "lgbt", "retro", "dadjokes", "dadjoke", "ubuntu", "visionpro", "iphone", "ios" ],
+    "Tags": [ "lgbt", "retro", "dadjokes", "dadjoke", "visionpro", "iphone", "ios" ],
     "Instances": [ "hachyderm.io", "mastodon.social" ]
 }
