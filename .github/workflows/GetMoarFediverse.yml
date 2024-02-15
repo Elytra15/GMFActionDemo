@@ -3,13 +3,13 @@ name: GetMoarFediverse
 on:
   # uncomment the following 2 lines so that it runs automatically every 15 minutes
   schedule:
-   - cron: '*/1 * * * *'
+   - cron: '*/5 * * * *'
    
   workflow_dispatch:
 
 jobs:
   moar:
-    runs-on: self-hosted
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
       - uses: g3rv4/GetMoarFediverse@main
