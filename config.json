@@ -1,5 +1,5 @@
 {
     "FakeRelayUrl": "https://fakerelay.gervas.io",
-    "Tags": [ "ios18", "wwdc24", "wwdc2024", "wwdc", "visionpro", "iphone", "mastoadmin", "testflight" ],
+    "Tags": [ "ios18", "wwdc24", "wwdc2024", "wwdc", "visionpro", "mastoadmin", "testflight" ],
     "Instances": [ "hachyderm.io", "mastodon.social" ]
 }
