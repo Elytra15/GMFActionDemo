@@ -1,5 +1,5 @@
 {
     "FakeRelayUrl": "https://fakerelay.gervas.io",
-    "Tags": [ "ios18", "iphone16", "mastoadmin", "iphone17", "appleevent", "morning", "iphone", "askfedi", "selfhosted", "gardening" ],
+    "Tags": [ "ios18", "iphone16", "mastoadmin", "iphone17", "appleevent", "morning", "iphone", "askfedi", "selfhosted" ],
     "Instances": [ "hachyderm.io", "mastodon.social" ]
 }
